@@ -1,0 +1,2 @@
+# carouselPractice
+Practice javascript carousel
